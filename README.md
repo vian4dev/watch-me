@@ -15,7 +15,10 @@ Aplicação desenvolvida na aula de React da Trilha Ignite da Rocketseat, o obje
 </div>
 
 ## 📷 Demostração
-(em breve)
+Apresentação da tela do aplicativo.
+<div align="center">
+  <img src="https://i.ibb.co/MZLzQgG/watchme.png" alt="watchme" border="0">
+</div>
 
 ## ⚙️ Instalação
 Clone o repositório.
