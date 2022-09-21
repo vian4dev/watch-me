@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="img-typescript" src="https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fignite.svg&w=256&q=75">
+</div>
+
 # Watch Me
 
 ## ✒️ Descrição
