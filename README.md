@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fignite.svg&w=256&q=75" alt="Ignite">
+  <img src="https://www.rocketseat.com.br/assets/logos/ignite-reduced.svg" width="150" height="150" alt="Ignite">
 </div>
 
 # Watch Me
