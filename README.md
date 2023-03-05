@@ -50,7 +50,7 @@ git clone git@github.com:vian4dev/watch-me.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd watch-me
+cd watch-me/
 ~~~
 Instale as dependências.
 ~~~
