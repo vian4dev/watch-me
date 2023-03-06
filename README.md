@@ -24,7 +24,7 @@
 # Watch Me
 
 ## ✒️ Descrição
-Aplicação desenvolvida na aula de React da Trilha Ignite da Rocketseat, o objetivo desse desafio foi refatorar a página em dois componentes principais para listagem de filmes de acordo com gênero escolhido pelo usuário. 
+Aplicação desenvolvida na aula de React da _Trilha Ignite_ da Rocketseat, o objetivo desse desafio foi refatorar a página em dois componentes principais para listagem de filmes de acordo com gênero escolhido pelo usuário. 
 
 ## 🚀 Tecnologias utilizadas
 <div style="display: inline_block"><br>
