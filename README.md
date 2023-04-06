@@ -42,7 +42,7 @@ Aplicação desenvolvida na aula de React da _Trilha Ignite_ da Rocketseat, o ob
 ## 📷 Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
-  <img src="./.github/watchme.png" alt="watchme" border="0">
+  <img src="./.github/watch-me.gif" alt="watch-me" border="0">
 </div>
 
 ## 🔥 Instalação
